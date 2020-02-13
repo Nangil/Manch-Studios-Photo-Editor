@@ -10,5 +10,5 @@ Manch Studios Photo Editor is a native Linux application, created in C ++ and QT
 <img src= https://user-images.githubusercontent.com/38798742/74412272-ca19e680-4e1b-11ea-8313-da12e90362f3.png>
 
 The software will use tools available to the open-source community like made the color management tool OpenColorIO:
-https://opencolorio.org/
+https://opencolorio.org/ </p>
 https://github.com/AcademySoftwareFoundation/OpenColorIO
