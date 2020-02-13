@@ -4,6 +4,8 @@
 # Manch Studios Photo Editor
 </p>
 
+#Introduction
+
 Manch Studios Photo Editor is a native Linux application, created in C ++ and QT Creator. The main focus of this project is the user experience; understand what is needed for the user before programming, offering a modern and fast approach meeting the needs of users.
 
 **The Photo Editor - First Idea**
