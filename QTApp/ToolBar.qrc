@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ToolBar/Brush.svg</file>
+        <file>ToolBar/Contiguous.svg</file>
+        <file>ToolBar/Crop.svg</file>
+        <file>ToolBar/Erase.svg</file>
+        <file>ToolBar/Gradient.svg</file>
+        <file>ToolBar/Move.svg</file>
+        <file>ToolBar/Pen.svg</file>
+        <file>ToolBar/Selection.svg</file>
+    </qresource>
+</RCC>
