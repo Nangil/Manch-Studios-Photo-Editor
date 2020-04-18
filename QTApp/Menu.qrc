@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/ManuImages">
+        <file>Menu/Export.svg</file>
+        <file>Menu/Import.svg</file>
+        <file>Menu/New.svg</file>
+        <file>Menu/Open.svg</file>
+        <file>Menu/Print.svg</file>
+        <file>Menu/Save.svg</file>
+        <file>Menu/Quit.svg</file>
+        <file>Menu/Redo.svg</file>
+        <file>Menu/Undo.svg</file>
+        <file>Menu/Preferences.svg</file>
+        <file>Menu/Paste.svg</file>
+        <file>Menu/Cut.svg</file>
+        <file>Menu/Copy.svg</file>
+        <file>Menu/ManchStudios.svg</file>
+    </qresource>
+</RCC>
